@@ -74,12 +74,12 @@ public class BookShelvesDefinitions {
 			System.out.println("OriginalPrice: "+OriginalPrice.get(i).getText());
 			System.out.println("EMi From "+EMiFrom.get(i).getText()+"\n");
 			}
-		BaseClass.sleep(5000);
+//		BaseClass.sleep(5000);
 	}
 	
 	@When("retrieve any one SubMenu data from living menu")
 	public void LivingSubMenu(){
-		BaseClass.sleep(2000);
+//		BaseClass.sleep(3000);
 		objHeaderAction.MoveToLivngLabel();
 		List<WebElement> chairList = objHeaderAction.ChairList();
 		for (int i=0;i<chairList.size();i++) {
