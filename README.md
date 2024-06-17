@@ -1,5 +1,3 @@
-
-**This Project written by Team: Phantom Troupe**
 -------------------------------------------------------
 *#This framework uses the below mentioned dependencies*
 ```
@@ -26,7 +24,7 @@ Display the name, price of
 If more than one item with same price displayed, include that details as well.
 (Suggested site: urbanladder.com  however you are free to use any other legitimate site)
 ```
-*Detailed Description: Hackath Ideas*
+*Detailed Description: Hackathon Ideas*
 ```
 1. Display the name & price of first 3 Bookshelves below Rs. 15000, with Storage type as open & exclude out of stock
 2. From Collections, retrieve all sub-menu items under Being-At-home and store in a List; Display the same
